@@ -1,0 +1,13 @@
+// Vitest Snapshot v1
+
+exports[`<Button /> > should match snapshot 1`] = `
+<div
+  class="sc-bcXHqe iSyUUh"
+>
+  <button
+    class="button"
+  >
+    Load more
+  </button>
+</div>
+`;
